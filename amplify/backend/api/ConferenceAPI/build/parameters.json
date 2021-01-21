@@ -1,0 +1,8 @@
+{
+    "CreateAPIKey": 1,
+    "AppSyncApiName": "ConferenceAPI",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": false,
+    "S3DeploymentBucket": "amplify-amplifyreactapp-dev-24858-deployment",
+    "S3DeploymentRootKey": "amplify-appsync-files/df0f206b3d5c21b11857a14db0f78d49ef190bd5"
+}
